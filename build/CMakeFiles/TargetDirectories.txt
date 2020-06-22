@@ -1,0 +1,3 @@
+/home/doublepoints/gazebo/BuildMyWorld/build/CMakeFiles/rebuild_cache.dir
+/home/doublepoints/gazebo/BuildMyWorld/build/CMakeFiles/hello.dir
+/home/doublepoints/gazebo/BuildMyWorld/build/CMakeFiles/edit_cache.dir
